@@ -1,0 +1,7 @@
+##ignore this file##
+/.metadata/
+/.recommenders/
+*.class
+*.classpath
+*.project
+*.prefs
